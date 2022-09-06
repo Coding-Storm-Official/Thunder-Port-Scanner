@@ -1,9 +1,21 @@
 # $$\textcolor{red}{\text{Multithreaded Port Scanner}}$$
-![ps](https://user-images.githubusercontent.com/96690322/188703616-d218469a-9c28-470e-b0a4-9d0b8a895a92.jpg)
+  
+ <p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://user-images.githubusercontent.com/96690322/188703616-d218469a-9c28-470e-b0a4-9d0b8a895a92.jpg"
+  >
+</p>
 
-A multithreaded port scanner built in python.
+<div align="center">
+  A fast,portable and multithreaded port scanner built in python.
+
 <br>
+
 ![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-lightgreen?style=for-the-badge&logo=github&logoColor=gold)
+
+ </div>
 
 
 ## What is a port scanner ?
