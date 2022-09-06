@@ -20,4 +20,5 @@ It is a program that checks a host or a server for open ports.
 - 🕗 Add a GUI.
 
 > __Warning__
+> 
 I am not responsible for your actions using this program. It is for educational purposes only, please use it legally.
