@@ -1,10 +1,10 @@
-# $$\textcolor{red}{\text{Multithreaded Port Scanner}}$$
+# <div align="center">|⚡| Thunder Port Scanner |⚡|</div> 
   
  <p align="center">
   <img 
     width="300"
     height="300"
-    src="https://user-images.githubusercontent.com/96690322/188703616-d218469a-9c28-470e-b0a4-9d0b8a895a92.jpg"
+    src="https://thumbs.gfycat.com/BlushingJubilantImperialeagle-size_restricted.gif"
   >
 </p>
 
@@ -12,8 +12,9 @@
   A fast,portable and multithreaded port scanner built in python.
 
 <br>
+<br>
 
-![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-lightgreen?style=for-the-badge&logo=github&logoColor=gold)
+![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) &nbsp; &nbsp; &nbsp; ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-lightgreen?style=for-the-badge&logo=github&logoColor=gold)
 
  </div>
 
