@@ -2,8 +2,8 @@
   
  <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="500"
+    height="350"
     src="https://thumbs.gfycat.com/BlushingJubilantImperialeagle-size_restricted.gif"
   >
 </p>
