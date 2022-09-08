@@ -14,7 +14,8 @@
 <br>
 <br>
 
-![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) &nbsp; &nbsp; &nbsp; ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-lightgreen?style=for-the-badge&logo=github&logoColor=gold)
+![Logo](https://img.shields.io/github/commit-activity/w/Coding-Storm/Multithreaded-Port-Scanner?color=brightgreen&label=commits&logo=python&logoColor=gold&style=for-the-badge) &nbsp; &nbsp; &nbsp; ![Maintained - Yes](https://img.shields.io/badge/Maintained-Yes-gold?style=for-the-badge&logo=github&logoColor=gold) &nbsp; &nbsp; &nbsp;   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo)](https://opensource.org/licenses/Apache-2.0)
+</div>
 
  </div>
 
