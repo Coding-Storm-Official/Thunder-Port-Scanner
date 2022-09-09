@@ -31,7 +31,6 @@ It is a program that checks a host or a server for open ports.
 
 ## Updates Planned:-
 - 🕗 Export scan results to a txt file.
-- 🕗 Add a GUI.
 
 > __Warning__
 > 
